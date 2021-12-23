@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23955BFF&size=30&center=true&width=500&lines=Ol%C3%A1%2C+Eu+sou+o+Gustavo)](https://git.io/typing-svg)
 <!--
 **Guxtaviko/Guxtaviko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
