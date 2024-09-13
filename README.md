@@ -6,7 +6,11 @@ Atualmente trabalhando com foco em backend, arquitetando e construindo aplicaç�
 
 - 📄 Conheça minhas experiências [aqui](https://drive.google.com/file/d/1Tv5sZqjBSyekghSGxfiTPcPub0ZNhQZv/view?usp=drive_link)
 
+<div align="right">
+  
 [![](https://visitcount.itsvg.in/api?id=guxtaviko&icon=8&color=6)](https://visitcount.itsvg.in)
+
+</div>
 
 ## 💻 Linguagens e Ferramentas:
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
@@ -47,6 +51,11 @@ Atualmente trabalhando com foco em backend, arquitetando e construindo aplicaç�
 ![YAML](https://img.shields.io/badge/yaml-212121.svg?style=for-the-badge&logo=yaml&logoColor=white) 
 
 ## 📊 GitHub:
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=guxtaviko&theme=aura&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guxtaviko&theme=aura&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=350&hide_longest_streak=true)](https://git.io/streak-stats)
+  
+</div>
 
