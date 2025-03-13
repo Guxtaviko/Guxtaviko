@@ -54,7 +54,7 @@ Acredito que a tecnologia tem o poder de transformar realidades e facilitar a vi
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=guxtaviko&theme=aura&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guxtaviko&theme=aura&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=350&hide_longest_streak=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=guxtaviko&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=guxtaviko&theme=catppuccin-mocha&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=350&hide_longest_streak=true)
   
 </div>
