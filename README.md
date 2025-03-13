@@ -1,16 +1,16 @@
-# ⚡Olá, eu sou Gustavo Vieira!
-### Sou um Engenheiro de software aficionado por inovação e resolução de problemas
-Atualmente trabalhando com foco em backend, arquitetando e construindo aplicações profissionais, escaláveis e robustas, estando imerso no mundo do desenvolvimento de soluções desde 2020.
+## ⚡ Engenheiro de Software focado em inovação e eficiência
+Apaixonado por tecnologia e resolução de problemas, estou imerso na criação de soluções escaláveis há anos. Minha experiência abrange todo o ciclo de desenvolvimento de software, desde a arquitetura e implementação até a otimização e manutenção. 
 
-- 📫 Pode me contatar em: **gustavov.silva@hotmail.com**
+Acredito que a tecnologia tem o poder de transformar realidades e facilitar a vida das pessoas. Meu objetivo é construir soluções inteligentes que impulsionem negócios e impactem positivamente o mundo.
 
-- 📄 Conheça minhas experiências [aqui](https://drive.google.com/file/d/1Tv5sZqjBSyekghSGxfiTPcPub0ZNhQZv/view?usp=drive_link)
+<br>
 
 <div align="right">
   
-[![](https://visitcount.itsvg.in/api?id=guxtaviko&icon=8&color=6)](https://visitcount.itsvg.in)
-
+  **gustavov.silva@hotmail.com** 📫
+  
 </div>
+
 
 ## 💻 Linguagens e Ferramentas:
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
@@ -58,4 +58,3 @@ Atualmente trabalhando com foco em backend, arquitetando e construindo aplicaç�
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guxtaviko&theme=aura&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=350&hide_longest_streak=true)](https://git.io/streak-stats)
   
 </div>
-
